@@ -1,6 +1,5 @@
 # clinique-hypnose-social
 
-
 ### Page Preview
 
 https://abdulrahman-ali-code-test.netlify.app/
@@ -39,4 +38,3 @@ i don't only use this but i found it Appropriate for this design
 
 > side note : i added only one librari during this project,    its owl-carousel for the carousel in the resources section
 > i know i cheated :) but its unreasonable to spend my entire day trying to make this carousel work while i have something that works perfectly
-"# clinique-hypnose-social" 
